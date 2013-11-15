@@ -1,6 +1,6 @@
 {
   "name": "coffeenode-limit",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A generic limiter library; includes basic client identity handling",
   "main": "lib/main.js",
   "scripts": {
@@ -28,6 +28,6 @@
     }
   },
   "readmeFilename": "README.md",
-  "_id": "coffeenode-limit@0.0.3",
-  "readme": "ERROR: No README data found!"
+  "_id": "coffeenode-limit@0.0.4",
+  "readme": "A generic limiter library; includes basic client identity handling"
 }
