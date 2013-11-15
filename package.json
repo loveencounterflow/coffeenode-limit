@@ -1,6 +1,6 @@
 {
   "name": "coffeenode-limit",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A generic limiter library; includes basic client identity handling",
   "main": "lib/main.js",
   "scripts": {
