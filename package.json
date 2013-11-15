@@ -1,0 +1,32 @@
+{
+  "name": "coffeenode-limit",
+  "version": "0.0.2",
+  "description": "A limiter library to throttle requests; includes basic client identity handling",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "asynct lib/tests.js"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "coffeenode-types": "~0.1.0",
+    "coffeenode-trm": "~0.1.6"
+  },
+  "devDependencies": {
+    "coffeenode-suspend": "~0.1.3",
+    "asynct": "~1.1.0"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "larq": {
+    "extensions": {},
+    "compile-statements": {},
+    "%cache": {
+      "routes": {
+        "lib/main.js": 1,
+        "lib/tests.js": 1
+      }
+    }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "coffeenode-limit@0.0.1"
+}

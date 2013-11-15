@@ -1,0 +1,9 @@
+{
+  "db-route": "limit-db",
+  "gid-by-uid": {},
+  "description-by-gid": {
+    "spam": "0 hits per day with delay",
+    "default": "3 hits per second without delay",
+    "premium": "1000 hits per second with delay"
+  }
+}
