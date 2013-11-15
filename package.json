@@ -28,6 +28,6 @@
     }
   },
   "readmeFilename": "README.md",
-  "_id": "coffeenode-limit@0.0.4",
+  "_id": "coffeenode-limit@0.0.5",
   "readme": "A generic limiter library; includes basic client identity handling"
 }
