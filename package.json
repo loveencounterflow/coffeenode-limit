@@ -1,7 +1,7 @@
 {
   "name": "coffeenode-limit",
-  "version": "0.0.2",
-  "description": "A limiter library to throttle requests; includes basic client identity handling",
+  "version": "0.0.3",
+  "description": "A generic limiter library; includes basic client identity handling",
   "main": "lib/main.js",
   "scripts": {
     "test": "asynct lib/tests.js"
@@ -28,5 +28,5 @@
     }
   },
   "readme": "ERROR: No README data found!",
-  "_id": "coffeenode-limit@0.0.1"
+  "_id": "coffeenode-limit@0.0.2"
 }
