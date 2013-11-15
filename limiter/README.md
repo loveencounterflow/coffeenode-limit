@@ -1,4 +1,15 @@
 
+
+- [limiter](#limiter)
+	- [Installation](#installation)
+	- [Usage](#usage)
+	- [Additional Notes](#additional-notes)
+	- [Sponsors](#sponsors)
+	- [License](#license)
+
+> **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+
 # limiter #
 
 Provides a generic rate limiter for node.js. Useful for API clients, web 
